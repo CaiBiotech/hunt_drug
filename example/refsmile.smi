@@ -1,0 +1,4 @@
+CC1=NC=C(N1CCO)[N+](=O)[O-]	Metronidazole
+CC1=NC=C(N1C)[N+](=O)[O-]	Dimetridazole
+CC1=NC=C(N1CC(C)O)[N+](=O)[O-]	Secnidazole
+CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C	Tinidazole
